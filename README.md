@@ -8,3 +8,7 @@ The mobile application of Moment.io will be developes with:
 - `react-native`
 - `go` or `python`
 - `MongoDB`
+
+## Team Members
+
+- **Octavio Sardi:** Frontend Developement, Backend Developement, Site Reliability Engineer
